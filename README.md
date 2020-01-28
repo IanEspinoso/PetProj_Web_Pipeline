@@ -29,7 +29,7 @@ I digged into that through some authors from the exact sciences (mainly logic, f
 
 A presentation on 'Google Slides'.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRv5ixIDMijHlA85onwSU1dgwT3JjgLABp5cE-K33XcEmL5FP01XwWoVnbwWUs5WA60i13aiyM9LwlW/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+> https://docs.google.com/presentation/d/e/2PACX-1vRv5ixIDMijHlA85onwSU1dgwT3JjgLABp5cE-K33XcEmL5FP01XwWoVnbwWUs5WA60i13aiyM9LwlW/embed?start=false&loop=true&delayms=3000
 
 A csv with the filtered dataset.
 
